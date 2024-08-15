@@ -1,0 +1,2 @@
+# stocktradingplatform
+codealpha
